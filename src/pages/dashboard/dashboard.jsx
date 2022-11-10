@@ -18,7 +18,7 @@ export default function home() {
                 aria-expanded="true"
                 aria-controls="collapseOne"
               >
-                Accordion Item #1
+                 About Me
               </button>
             </h2>
             <div
@@ -28,7 +28,7 @@ export default function home() {
               data-bs-parent="#accordionExample"
             >
               <div class="accordion-body">
-                <strong>This is the first item's accordion body.</strong> It is
+                <strong>Sarthak</strong> It is
                 shown by default, until the collapse plugin adds the appropriate
                 classes that we use to style each element. These classes control
                 the overall appearance, as well as the showing and hiding via
